@@ -1,0 +1,9 @@
+.x-tree-node .no-leaf-icons {
+    visibility: hidden !important;
+    width: 18px; /* Adjust width to suit */
+}
+
+.x-tree-node .x-tree-node-icon.icon-vcard {
+	width: 24px;
+	background-image: url(../images/vcard.png) !important;
+}

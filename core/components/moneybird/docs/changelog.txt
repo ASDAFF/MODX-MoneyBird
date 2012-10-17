@@ -1,0 +1,5 @@
+Changelog file for MoneyBird component.
+
+MoneyBird 1.0.0-pl
+====================================
+- Initial commit
